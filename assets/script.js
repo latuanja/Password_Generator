@@ -28,9 +28,9 @@ function getPasswordOptions() {
 
     var hasSpecialCharacters = confirm('Click OK to confirm including special characters.');
 
-    var hasNumericCharacters = confirm('Click OK to confirm including special characters.');
+    var hasNumericCharacters = confirm('Click OK to confirm including numeric characters.');
 
-    var hasLowerCasedCharacters = confirm ('Click OK to confirm including lowercase characters.');
+    var hasLowerCasedCharacters = confirm('Click OK to confirm including lowercase characters.');
 
     var hasUpperCasedCharacters = confirm('Click OK to confirm including uppercase characters.');
 
