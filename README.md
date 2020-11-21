@@ -27,7 +27,7 @@ Security is always at the forefront of the minds of users who are concerned abou
 *Conditional statements are used to provide options and push random characters, based on the selections made in beginning prompts.
 *Random password is then returned in text field for the user
 
-![]assets/Password_Generator_Screenshot.png
+![](assets/Password_Generator_Screenshot.png)
 **
 ##Technologies Used
 This website was created with HTML, JS & CSS.
